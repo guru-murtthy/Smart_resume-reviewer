@@ -5,8 +5,6 @@ the complete Smart Resume Reviewer condensed into a single Python file (app.py).
 
 This version keeps all the advanced features (BERT Semantic Analysis, Layout-Aware Parsing) but removes the complexity of setting up a separate backend server.
 
-1. The Code (app.py)
-Save the following code into a file named app.py.
 
 Python
 
